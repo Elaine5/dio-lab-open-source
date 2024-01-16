@@ -1,13 +1,13 @@
 
-# Wesley Santos Rocha
+# Elaine Patricia dos Santos
 
-Este é meu arquivo em md para contribuição do projeto open source, este também é minha primeira vez utilizando git e github, estou migrando de area atualmente sou motoboy, porém sempre tive interesse na area de programação e coisas relacionadas à inteligencia artificial
+Sou formada no curso técnico de química industrial, porém decidir mudar de área no momento mais oportuno que tive pois sempre gostei da área de tecnologia, já estou finalizando meu curso em Análise em desenvolvimento de sistemas pelo senac.
 
 ## 🛰 Minhas redes sociais
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/wesley-rocha-926414263/)
-- [![LinkedIn](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=0E76A8)](https://github.com/97segundos)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/elaine-ps94/)
+- [![GitHub](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=0E76A8)](https://github.com/Elaine5)
 
-[ GitHub](https://github.com/97segundos)
+[ GitHub](https://github.com/Elaine5)
 
 ## 💡 Habilidades
 
@@ -22,6 +22,6 @@ Este é meu arquivo em md para contribuição do projeto open source, este tamb�
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=97segundos&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide=stars)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Elaine5&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide=stars)
 
 
