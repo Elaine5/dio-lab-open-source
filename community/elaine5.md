@@ -15,10 +15,14 @@ Sou formada no curso técnico de química industrial, porém decidir mudar de á
 
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
 
-## Aprendendo
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![JAVA]
 
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![QUARKUS]
+
+![BACKEND]
+
+## Aprendendo
+![Kotlin]
 
 ## GitHub Stats
 
