@@ -15,11 +15,7 @@ Sou formada no curso técnico de química industrial, porém decidir mudar de á
 
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
 
-![JAVA](https://img.shields.io/badge/JAVA?style=for-the-badge&logo=java)
-
-![QUARKUS]
-
-![BACKEND]
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=java)
 
 ## Aprendendo
 ![Kotlin]
