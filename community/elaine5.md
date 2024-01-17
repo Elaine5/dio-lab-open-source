@@ -21,8 +21,15 @@ Sou formada no curso técnico de química industrial, porém decidir mudar de á
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Elaine5)
 
+- 💻 Linguagens de programação: Java, JavaScript.
+- 🌐 Front-end: HTML, CSS, SpringBoot, Bootstrap.
+- 🖥️ Back-end: Java, Quarkus Framework.
+- 🗃️ Banco de dados relacional: PostgreSQ.
+- 🧰 Ferramentas de Desenvolvimento: IntelliJ, Visual Studio Code, Git, Postman, Dbeaver.
+- 🌍 Outras: RESTful APIs.
+
 ## Aprendendo
-![Kotlin]
+- 💻 Kotlin
 
 ## GitHub Stats
 
